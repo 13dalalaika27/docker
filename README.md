@@ -41,3 +41,9 @@ Go to http://exampledomain27.pp.ua and finish install:
 
 ![image](https://github.com/13dalalaika27/docker/assets/113292337/61b6a092-b945-4484-b3e0-cfeeb06b3d63)
 
+
+
+***COMPOSE***
+
+![image](https://github.com/13dalalaika27/docker/assets/113292337/af879dba-6bce-4e25-8f4f-2b4abec45c14)
+

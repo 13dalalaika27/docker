@@ -1,0 +1,8 @@
+FROM nginx:alpine
+
+EXPOSE 80
+#COPY nginx.conf /etc/nginx/
+COPY nginx-vhost.conf /etc/nginx/conf.d/
+STOPSIGNAL SIGQUIT
+
+CMD ["nginx", "-g", "daemon off;"]
